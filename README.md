@@ -1,5 +1,8 @@
 # USL Scouting Model
 
+**Try it: [miamifc-scouting.streamlit.app/?lang=en](https://miamifc-scouting.streamlit.app/?lang=en)** (English; the staff use it in Spanish).
+The first load after idle takes about 30 seconds while the database is prepared.
+
 A recruitment tool built for the coaching staff of a USL Championship club, by its data analyst.
 It answers one question a coach actually asks: **"who plays like this player, in a league we can sign from?"**
 
