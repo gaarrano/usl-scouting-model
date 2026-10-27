@@ -1,0 +1,14 @@
+group,feature,label,n_movers,r,ci_low,ci_high
+ALL,touches_p90,Touches/90,48,0.753,0.569,0.86
+ALL,passes_p90,Passes/90,48,0.753,0.558,0.844
+ALL,pass_pct,Pass completion %,48,0.933,0.886,0.962
+ALL,long_p90,Long balls/90,31,0.047,0.033,0.124
+ALL,shots_p90,Shots/90,48,-0.11,-0.312,0.01
+ALL,sot_pct,Shots on target %,48,0.364,0.118,0.558
+ALL,goals_p90,Goals/90,41,-0.027,-0.11,0.082
+ALL,assists_p90,Assists/90,41,-0.027,-0.11,0.073
+ALL,loss_per100,Possession lost per 100 touches,48,0.703,0.571,0.823
+ALL,duels_p90,Duels/90 (poss-adj),48,-0.168,-0.37,0.022
+ALL,tackles_p90,Tackles/90 (poss-adj),48,-0.11,-0.344,0.026
+ALL,int_p90,Interceptions/90 (poss-adj),48,-0.102,-0.363,0.156
+ALL,clear_p90,Clearances/90 (poss-adj),48,-0.11,-0.306,0.022

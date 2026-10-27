@@ -1,0 +1,10 @@
+# Dependencies for the Streamlit app only (scouting/app_v2.py) — used by Streamlit Community Cloud.
+# The full project (Postgres ingest, xG model) uses the root requirements.txt.
+streamlit>=1.46
+altair>=5
+pandas
+numpy
+matplotlib
+scikit-learn
+gspread>=6
+google-auth>=2

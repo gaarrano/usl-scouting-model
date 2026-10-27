@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/
+.venv/
+.streamlit/secrets.toml
+scouting/output/shortlist.json
+.DS_Store

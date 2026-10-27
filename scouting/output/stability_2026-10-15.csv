@@ -1,0 +1,139 @@
+group,feature,label,kind,n_pairs,r,ci_low,ci_high,verdict,n_same_team,r_same_team,n_new_team,r_new_team
+CB,touches_p90,Touches/90,p90,1002,0.516,0.466,0.563,moderate,712,0.601,290,0.214
+CB,passes_p90,Passes/90,p90,1002,0.626,0.583,0.666,strong,712,0.724,290,0.283
+CB,pass_pct,Pass completion %,pct,1002,0.503,0.449,0.553,moderate,712,0.597,290,0.243
+CB,long_p90,Long balls/90,p90,1002,0.701,0.668,0.732,strong,712,0.723,290,0.649
+CB,long_pct,Long-ball completion %,pct,1002,0.439,0.382,0.492,moderate,712,0.485,290,0.313
+CB,key_passes_p90,Key passes/90,p90,1002,0.395,0.334,0.457,weak,712,0.415,290,0.334
+CB,crosses_p90,Crosses/90,p90,1002,0.539,0.472,0.609,moderate,712,0.557,290,0.491
+CB,cross_pct,Cross completion %,pct,46,0.101,-0.178,0.357,weak,39,0.111,7,
+CB,dribbles_p90,Dribble attempts/90,p90,1002,0.575,0.515,0.629,moderate,712,0.599,290,0.493
+CB,dribble_pct,Dribble success %,pct,38,0.204,-0.13,0.515,weak,31,0.204,7,
+CB,shots_p90,Shots/90,p90,1002,0.484,0.434,0.531,moderate,712,0.508,290,0.43
+CB,sot_pct,Shots on target %,pct,128,0.023,-0.14,0.193,weak,98,0.05,30,-0.05
+CB,goals_p90,Goals/90,p90,1002,0.15,0.079,0.216,weak,712,0.158,290,0.137
+CB,assists_p90,Assists/90,p90,1002,0.078,0.014,0.145,weak,712,0.063,290,0.11
+CB,fouls_drawn_p90,Fouls drawn/90,p90,1002,0.62,0.577,0.661,strong,712,0.642,290,0.571
+CB,loss_per100,Possession lost per 100 touches,ratio,995,0.415,0.353,0.472,moderate,711,0.485,284,0.237
+CB,duels_p90,Duels/90 (poss-adj),adj,1002,0.529,0.478,0.575,moderate,712,0.6,290,0.378
+CB,duel_pct,Duels won %,pct,1002,0.414,0.366,0.464,moderate,712,0.442,290,0.341
+CB,aerial_p90,Aerial duels/90 (poss-adj),adj,1002,0.546,0.5,0.59,moderate,712,0.599,290,0.421
+CB,aerial_pct,Aerials won %,pct,984,0.356,0.296,0.413,weak,698,0.365,286,0.337
+CB,tackles_p90,Tackles/90 (poss-adj),adj,1002,0.542,0.494,0.59,moderate,712,0.588,290,0.436
+CB,int_p90,Interceptions/90 (poss-adj),adj,1002,0.421,0.367,0.473,moderate,712,0.475,290,0.287
+CB,clear_p90,Clearances/90 (poss-adj),adj,1002,0.487,0.437,0.536,moderate,712,0.513,290,0.425
+FB,touches_p90,Touches/90,p90,853,0.512,0.457,0.568,moderate,595,0.55,258,0.398
+FB,passes_p90,Passes/90,p90,853,0.69,0.649,0.729,strong,595,0.748,258,0.53
+FB,pass_pct,Pass completion %,pct,853,0.562,0.511,0.61,moderate,595,0.633,258,0.387
+FB,long_p90,Long balls/90,p90,853,0.707,0.671,0.742,strong,595,0.746,258,0.621
+FB,long_pct,Long-ball completion %,pct,849,0.381,0.319,0.438,weak,591,0.394,258,0.347
+FB,key_passes_p90,Key passes/90,p90,853,0.533,0.476,0.587,moderate,595,0.59,258,0.385
+FB,crosses_p90,Crosses/90,p90,853,0.692,0.643,0.734,strong,595,0.73,258,0.591
+FB,cross_pct,Cross completion %,pct,762,0.145,0.081,0.216,weak,527,0.174,235,0.072
+FB,dribbles_p90,Dribble attempts/90,p90,853,0.657,0.608,0.701,strong,595,0.676,258,0.607
+FB,dribble_pct,Dribble success %,pct,438,0.198,0.092,0.301,weak,322,0.297,116,-0.062
+FB,shots_p90,Shots/90,p90,853,0.562,0.507,0.613,moderate,595,0.576,258,0.54
+FB,sot_pct,Shots on target %,pct,202,0.21,0.087,0.329,weak,148,0.21,54,0.223
+FB,goals_p90,Goals/90,p90,853,0.249,0.169,0.336,weak,595,0.298,258,0.142
+FB,assists_p90,Assists/90,p90,853,0.257,0.182,0.336,weak,595,0.307,258,0.142
+FB,fouls_drawn_p90,Fouls drawn/90,p90,853,0.691,0.648,0.73,strong,595,0.712,258,0.637
+FB,loss_per100,Possession lost per 100 touches,ratio,850,0.417,0.355,0.482,moderate,594,0.478,256,0.274
+FB,duels_p90,Duels/90 (poss-adj),adj,853,0.628,0.581,0.672,strong,595,0.682,258,0.487
+FB,duel_pct,Duels won %,pct,853,0.339,0.276,0.4,weak,595,0.391,258,0.244
+FB,aerial_p90,Aerial duels/90 (poss-adj),adj,853,0.655,0.613,0.694,strong,595,0.663,258,0.632
+FB,aerial_pct,Aerials won %,pct,726,0.35,0.286,0.415,weak,518,0.374,208,0.293
+FB,tackles_p90,Tackles/90 (poss-adj),adj,853,0.453,0.392,0.51,moderate,595,0.532,258,0.286
+FB,int_p90,Interceptions/90 (poss-adj),adj,853,0.405,0.338,0.463,moderate,595,0.455,258,0.286
+FB,clear_p90,Clearances/90 (poss-adj),adj,853,0.554,0.499,0.602,moderate,595,0.601,258,0.444
+CM,touches_p90,Touches/90,p90,1035,0.611,0.563,0.657,strong,741,0.673,294,0.46
+CM,passes_p90,Passes/90,p90,1035,0.731,0.698,0.762,strong,741,0.79,294,0.571
+CM,pass_pct,Pass completion %,pct,1035,0.621,0.578,0.664,strong,741,0.672,294,0.467
+CM,long_p90,Long balls/90,p90,1035,0.754,0.724,0.782,strong,741,0.785,294,0.677
+CM,long_pct,Long-ball completion %,pct,1030,0.525,0.475,0.571,moderate,739,0.55,291,0.462
+CM,key_passes_p90,Key passes/90,p90,1035,0.686,0.647,0.722,strong,741,0.705,294,0.635
+CM,crosses_p90,Crosses/90,p90,1035,0.764,0.726,0.796,strong,741,0.8,294,0.672
+CM,cross_pct,Cross completion %,pct,414,0.156,0.062,0.249,weak,298,0.152,116,0.165
+CM,dribbles_p90,Dribble attempts/90,p90,1035,0.662,0.616,0.703,strong,741,0.665,294,0.655
+CM,dribble_pct,Dribble success %,pct,429,0.17,0.078,0.261,weak,313,0.199,116,0.085
+CM,shots_p90,Shots/90,p90,1035,0.724,0.69,0.757,strong,741,0.739,294,0.686
+CM,sot_pct,Shots on target %,pct,521,0.232,0.15,0.308,weak,366,0.198,155,0.311
+CM,goals_p90,Goals/90,p90,1035,0.373,0.32,0.428,weak,741,0.389,294,0.331
+CM,assists_p90,Assists/90,p90,1035,0.328,0.266,0.39,weak,741,0.353,294,0.266
+CM,fouls_drawn_p90,Fouls drawn/90,p90,1035,0.73,0.699,0.762,strong,741,0.726,294,0.74
+CM,loss_per100,Possession lost per 100 touches,ratio,1032,0.545,0.493,0.594,moderate,741,0.583,291,0.438
+CM,duels_p90,Duels/90 (poss-adj),adj,1035,0.623,0.581,0.662,strong,741,0.662,294,0.529
+CM,duel_pct,Duels won %,pct,1035,0.492,0.448,0.537,moderate,741,0.501,294,0.476
+CM,aerial_p90,Aerial duels/90 (poss-adj),adj,1035,0.706,0.664,0.746,strong,741,0.717,294,0.681
+CM,aerial_pct,Aerials won %,pct,808,0.363,0.302,0.424,weak,576,0.344,232,0.413
+CM,tackles_p90,Tackles/90 (poss-adj),adj,1035,0.558,0.513,0.603,moderate,741,0.582,294,0.505
+CM,int_p90,Interceptions/90 (poss-adj),adj,1035,0.489,0.441,0.536,moderate,741,0.508,294,0.445
+CM,clear_p90,Clearances/90 (poss-adj),adj,1035,0.624,0.562,0.68,strong,741,0.644,294,0.582
+AM,touches_p90,Touches/90,p90,276,0.632,0.534,0.715,strong,182,0.677,94,0.514
+AM,passes_p90,Passes/90,p90,276,0.746,0.692,0.797,strong,182,0.784,94,0.666
+AM,pass_pct,Pass completion %,pct,276,0.586,0.501,0.67,moderate,182,0.598,94,0.561
+AM,long_p90,Long balls/90,p90,276,0.752,0.698,0.8,strong,182,0.775,94,0.712
+AM,long_pct,Long-ball completion %,pct,267,0.426,0.334,0.511,moderate,178,0.527,89,0.215
+AM,key_passes_p90,Key passes/90,p90,276,0.607,0.525,0.684,strong,182,0.613,94,0.587
+AM,crosses_p90,Crosses/90,p90,276,0.727,0.664,0.781,strong,182,0.738,94,0.69
+AM,cross_pct,Cross completion %,pct,246,0.169,0.026,0.306,weak,163,0.194,83,0.132
+AM,dribbles_p90,Dribble attempts/90,p90,276,0.683,0.61,0.749,strong,182,0.701,94,0.652
+AM,dribble_pct,Dribble success %,pct,212,0.14,0.008,0.264,weak,141,0.087,71,0.227
+AM,shots_p90,Shots/90,p90,276,0.714,0.647,0.774,strong,182,0.75,94,0.652
+AM,sot_pct,Shots on target %,pct,249,0.079,-0.047,0.205,weak,162,0.074,87,0.074
+AM,goals_p90,Goals/90,p90,276,0.387,0.294,0.481,weak,182,0.418,94,0.306
+AM,assists_p90,Assists/90,p90,276,0.281,0.161,0.392,weak,182,0.258,94,0.311
+AM,fouls_drawn_p90,Fouls drawn/90,p90,276,0.632,0.554,0.698,strong,182,0.634,94,0.628
+AM,loss_per100,Possession lost per 100 touches,ratio,276,0.504,0.397,0.603,moderate,182,0.536,94,0.453
+AM,duels_p90,Duels/90 (poss-adj),adj,276,0.676,0.601,0.741,strong,182,0.704,94,0.61
+AM,duel_pct,Duels won %,pct,276,0.445,0.346,0.537,moderate,182,0.418,94,0.51
+AM,aerial_p90,Aerial duels/90 (poss-adj),adj,276,0.644,0.547,0.73,strong,182,0.63,94,0.673
+AM,aerial_pct,Aerials won %,pct,162,0.342,0.189,0.48,weak,102,0.321,60,0.379
+AM,tackles_p90,Tackles/90 (poss-adj),adj,276,0.517,0.434,0.593,moderate,182,0.526,94,0.507
+AM,int_p90,Interceptions/90 (poss-adj),adj,276,0.465,0.365,0.559,moderate,182,0.502,94,0.398
+AM,clear_p90,Clearances/90 (poss-adj),adj,276,0.513,0.418,0.599,moderate,182,0.535,94,0.478
+W,touches_p90,Touches/90,p90,643,0.633,0.577,0.685,strong,473,0.685,170,0.464
+W,passes_p90,Passes/90,p90,643,0.772,0.74,0.801,strong,473,0.795,170,0.689
+W,pass_pct,Pass completion %,pct,643,0.597,0.549,0.646,moderate,473,0.64,170,0.468
+W,long_p90,Long balls/90,p90,643,0.739,0.695,0.776,strong,473,0.759,170,0.679
+W,long_pct,Long-ball completion %,pct,560,0.396,0.325,0.466,weak,417,0.405,143,0.366
+W,key_passes_p90,Key passes/90,p90,643,0.554,0.494,0.609,moderate,473,0.573,170,0.483
+W,crosses_p90,Crosses/90,p90,643,0.745,0.699,0.787,strong,473,0.767,170,0.678
+W,cross_pct,Cross completion %,pct,593,0.134,0.059,0.21,weak,438,0.148,155,0.084
+W,dribbles_p90,Dribble attempts/90,p90,643,0.715,0.675,0.752,strong,473,0.737,170,0.645
+W,dribble_pct,Dribble success %,pct,553,0.242,0.164,0.318,weak,414,0.236,139,0.237
+W,shots_p90,Shots/90,p90,643,0.696,0.648,0.739,strong,473,0.73,170,0.582
+W,sot_pct,Shots on target %,pct,551,0.07,-0.009,0.151,weak,415,0.033,136,0.173
+W,goals_p90,Goals/90,p90,643,0.384,0.303,0.467,weak,473,0.416,170,0.27
+W,assists_p90,Assists/90,p90,643,0.186,0.108,0.269,weak,473,0.196,170,0.143
+W,fouls_drawn_p90,Fouls drawn/90,p90,643,0.705,0.667,0.744,strong,473,0.7,170,0.713
+W,loss_per100,Possession lost per 100 touches,ratio,641,0.438,0.368,0.502,moderate,471,0.523,170,0.197
+W,duels_p90,Duels/90 (poss-adj),adj,643,0.643,0.594,0.691,strong,473,0.681,170,0.551
+W,duel_pct,Duels won %,pct,643,0.49,0.427,0.546,moderate,473,0.515,170,0.43
+W,aerial_p90,Aerial duels/90 (poss-adj),adj,643,0.722,0.677,0.763,strong,473,0.736,170,0.69
+W,aerial_pct,Aerials won %,pct,422,0.431,0.348,0.501,moderate,303,0.461,119,0.349
+W,tackles_p90,Tackles/90 (poss-adj),adj,643,0.535,0.481,0.586,moderate,473,0.573,170,0.452
+W,int_p90,Interceptions/90 (poss-adj),adj,643,0.4,0.329,0.466,moderate,473,0.439,170,0.282
+W,clear_p90,Clearances/90 (poss-adj),adj,643,0.631,0.565,0.692,strong,473,0.686,170,0.506
+ST,touches_p90,Touches/90,p90,495,0.65,0.585,0.706,strong,343,0.691,152,0.521
+ST,passes_p90,Passes/90,p90,495,0.755,0.705,0.798,strong,343,0.788,152,0.666
+ST,pass_pct,Pass completion %,pct,495,0.659,0.607,0.707,strong,343,0.68,152,0.61
+ST,long_p90,Long balls/90,p90,495,0.634,0.573,0.695,strong,343,0.641,152,0.613
+ST,long_pct,Long-ball completion %,pct,204,0.352,0.237,0.461,weak,155,0.344,49,0.383
+ST,key_passes_p90,Key passes/90,p90,495,0.511,0.438,0.579,moderate,343,0.573,152,0.349
+ST,crosses_p90,Crosses/90,p90,495,0.699,0.637,0.759,strong,343,0.717,152,0.664
+ST,cross_pct,Cross completion %,pct,134,0.247,0.072,0.422,weak,95,0.327,39,-0.049
+ST,dribbles_p90,Dribble attempts/90,p90,495,0.745,0.703,0.785,strong,343,0.742,152,0.751
+ST,dribble_pct,Dribble success %,pct,309,0.128,0.008,0.236,weak,221,0.063,88,0.267
+ST,shots_p90,Shots/90,p90,495,0.575,0.506,0.638,moderate,343,0.583,152,0.554
+ST,sot_pct,Shots on target %,pct,488,0.196,0.11,0.28,weak,339,0.217,149,0.142
+ST,goals_p90,Goals/90,p90,495,0.25,0.16,0.339,weak,343,0.272,152,0.189
+ST,assists_p90,Assists/90,p90,495,0.209,0.112,0.3,weak,343,0.187,152,0.254
+ST,fouls_drawn_p90,Fouls drawn/90,p90,495,0.641,0.572,0.696,strong,343,0.673,152,0.563
+ST,loss_per100,Possession lost per 100 touches,ratio,490,0.425,0.342,0.501,moderate,341,0.477,149,0.316
+ST,duels_p90,Duels/90 (poss-adj),adj,495,0.704,0.653,0.751,strong,343,0.724,152,0.655
+ST,duel_pct,Duels won %,pct,495,0.411,0.333,0.49,moderate,343,0.448,152,0.312
+ST,aerial_p90,Aerial duels/90 (poss-adj),adj,495,0.74,0.699,0.781,strong,343,0.773,152,0.67
+ST,aerial_pct,Aerials won %,pct,468,0.419,0.341,0.497,moderate,325,0.422,143,0.419
+ST,tackles_p90,Tackles/90 (poss-adj),adj,495,0.587,0.52,0.649,moderate,343,0.621,152,0.454
+ST,int_p90,Interceptions/90 (poss-adj),adj,495,0.386,0.3,0.467,weak,343,0.421,152,0.241
+ST,clear_p90,Clearances/90 (poss-adj),adj,495,0.462,0.388,0.531,moderate,343,0.504,152,0.379

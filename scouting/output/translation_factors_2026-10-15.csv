@@ -1,0 +1,70 @@
+origin,feature,label,kind,n_movers,factor,ci_low,ci_high,factor_shrunk
+Canada Premier League,touches_p90,Touches/90,p90,13,0.868,0.834,0.903,0.853
+Canada Premier League,passes_p90,Passes/90,p90,13,0.868,0.834,0.904,0.853
+Canada Premier League,pass_pct,Pass completion %,pct,13,-1.626,-2.479,-0.727,-1.807
+Canada Premier League,long_p90,Long balls/90,p90,13,1.0,1.0,1.0,1.0
+Canada Premier League,long_pct,Long-ball completion %,pct,0,,,,
+Canada Premier League,key_passes_p90,Key passes/90,p90,0,,,,
+Canada Premier League,crosses_p90,Crosses/90,p90,0,,,,
+Canada Premier League,cross_pct,Cross completion %,pct,0,,,,
+Canada Premier League,dribbles_p90,Dribble attempts/90,p90,0,,,,
+Canada Premier League,dribble_pct,Dribble success %,pct,0,,,,
+Canada Premier League,shots_p90,Shots/90,p90,13,1.0,1.0,1.0,1.0
+Canada Premier League,sot_pct,Shots on target %,pct,13,-0.0,-0.0,0.0,-0.0
+Canada Premier League,goals_p90,Goals/90,p90,13,1.0,1.0,1.0,1.0
+Canada Premier League,assists_p90,Assists/90,p90,13,1.0,1.0,1.0,1.0
+Canada Premier League,fouls_drawn_p90,Fouls drawn/90,p90,0,,,,
+Canada Premier League,loss_per100,Possession lost per 100 touches,ratio,13,1.146,1.099,1.198,1.165
+Canada Premier League,duels_p90,Duels/90 (poss-adj),adj,13,1.069,0.903,1.259,1.021
+Canada Premier League,duel_pct,Duels won %,pct,0,,,,
+Canada Premier League,aerial_p90,Aerial duels/90 (poss-adj),adj,0,,,,
+Canada Premier League,aerial_pct,Aerials won %,pct,0,,,,
+Canada Premier League,tackles_p90,Tackles/90 (poss-adj),adj,13,1.0,1.0,1.0,1.0
+Canada Premier League,int_p90,Interceptions/90 (poss-adj),adj,13,1.046,0.843,1.27,0.995
+Canada Premier League,clear_p90,Clearances/90 (poss-adj),adj,13,1.0,1.0,1.0,1.0
+Chile Primera Division,touches_p90,Touches/90,p90,35,0.779,0.759,0.799,0.791
+Chile Primera Division,passes_p90,Passes/90,p90,35,0.779,0.76,0.799,0.791
+Chile Primera Division,pass_pct,Pass completion %,pct,35,-2.782,-3.301,-2.279,-2.618
+Chile Primera Division,long_p90,Long balls/90,p90,35,1.0,1.0,1.0,1.0
+Chile Primera Division,long_pct,Long-ball completion %,pct,0,,,,
+Chile Primera Division,key_passes_p90,Key passes/90,p90,0,,,,
+Chile Primera Division,crosses_p90,Crosses/90,p90,0,,,,
+Chile Primera Division,cross_pct,Cross completion %,pct,0,,,,
+Chile Primera Division,dribbles_p90,Dribble attempts/90,p90,0,,,,
+Chile Primera Division,dribble_pct,Dribble success %,pct,0,,,,
+Chile Primera Division,shots_p90,Shots/90,p90,35,1.0,1.0,1.0,1.0
+Chile Primera Division,sot_pct,Shots on target %,pct,35,-0.0,-0.0,-0.0,-0.0
+Chile Primera Division,goals_p90,Goals/90,p90,35,1.0,1.0,1.0,1.0
+Chile Primera Division,assists_p90,Assists/90,p90,35,1.0,1.0,1.0,1.0
+Chile Primera Division,fouls_drawn_p90,Fouls drawn/90,p90,0,,,,
+Chile Primera Division,loss_per100,Possession lost per 100 touches,ratio,35,1.268,1.234,1.301,1.25
+Chile Primera Division,duels_p90,Duels/90 (poss-adj),adj,35,0.916,0.838,1.002,0.926
+Chile Primera Division,duel_pct,Duels won %,pct,0,,,,
+Chile Primera Division,aerial_p90,Aerial duels/90 (poss-adj),adj,0,,,,
+Chile Primera Division,aerial_pct,Aerials won %,pct,0,,,,
+Chile Primera Division,tackles_p90,Tackles/90 (poss-adj),adj,35,1.0,1.0,1.0,1.0
+Chile Primera Division,int_p90,Interceptions/90 (poss-adj),adj,35,0.876,0.695,1.057,0.889
+Chile Primera Division,clear_p90,Clearances/90 (poss-adj),adj,35,1.0,1.0,1.0,1.0
+ALL ORIGINS,touches_p90,Touches/90,p90,48,0.802,0.782,0.823,0.833
+ALL ORIGINS,passes_p90,Passes/90,p90,48,0.802,0.783,0.823,0.833
+ALL ORIGINS,pass_pct,Pass completion %,pct,48,-2.469,-2.929,-2.029,-2.043
+ALL ORIGINS,long_p90,Long balls/90,p90,48,1.0,1.0,1.0,1.0
+ALL ORIGINS,long_pct,Long-ball completion %,pct,0,,,,
+ALL ORIGINS,key_passes_p90,Key passes/90,p90,0,,,,
+ALL ORIGINS,crosses_p90,Crosses/90,p90,0,,,,
+ALL ORIGINS,cross_pct,Cross completion %,pct,0,,,,
+ALL ORIGINS,dribbles_p90,Dribble attempts/90,p90,0,,,,
+ALL ORIGINS,dribble_pct,Dribble success %,pct,0,,,,
+ALL ORIGINS,shots_p90,Shots/90,p90,48,1.0,1.0,1.0,1.0
+ALL ORIGINS,sot_pct,Shots on target %,pct,48,-0.0,-0.0,-0.0,-0.0
+ALL ORIGINS,goals_p90,Goals/90,p90,48,1.0,1.0,1.0,1.0
+ALL ORIGINS,assists_p90,Assists/90,p90,48,1.0,1.0,1.0,1.0
+ALL ORIGINS,fouls_drawn_p90,Fouls drawn/90,p90,0,,,,
+ALL ORIGINS,loss_per100,Possession lost per 100 touches,ratio,48,1.233,1.201,1.267,1.19
+ALL ORIGINS,duels_p90,Duels/90 (poss-adj),adj,48,0.955,0.884,1.036,0.963
+ALL ORIGINS,duel_pct,Duels won %,pct,0,,,,
+ALL ORIGINS,aerial_p90,Aerial duels/90 (poss-adj),adj,0,,,,
+ALL ORIGINS,aerial_pct,Aerials won %,pct,0,,,,
+ALL ORIGINS,tackles_p90,Tackles/90 (poss-adj),adj,48,1.0,1.0,1.0,1.0
+ALL ORIGINS,int_p90,Interceptions/90 (poss-adj),adj,48,0.919,0.771,1.062,0.933
+ALL ORIGINS,clear_p90,Clearances/90 (poss-adj),adj,48,1.0,1.0,1.0,1.0
